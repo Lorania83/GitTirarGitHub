@@ -5,6 +5,8 @@ public class PruebasGitGithub {
 		System.out.println("Hola");
 
 		String name ="T Lorences";
+		
+		System.out.println(name);
 	}
 
 }
